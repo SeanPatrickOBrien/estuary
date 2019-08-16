@@ -58,6 +58,7 @@ dependencies:
   - mwc-random
   - haskell-src-exts
   - TimeNot
+  - template-haskell
 
 library:
   source-dirs:
